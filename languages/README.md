@@ -1,3 +1,3 @@
-# Programming Languangs
+# Programming Languages
 
-[Golang](go/README.md)
+[Golang](go-lang.md)

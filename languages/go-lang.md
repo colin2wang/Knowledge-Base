@@ -1,4 +1,8 @@
-# 
+# Golang
+
+## How to Setup
+
+### Install golang.org/x
 
 ```batch
 mkdir -p %GOPATH%/src/golang.org/x/
