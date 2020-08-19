@@ -1,10 +1,10 @@
 # Golang
 
-## How to Setup
+## Development Setup
 
 ### Install golang.org/x
 
-```batch
+```shell script
 mkdir -p %GOPATH%/src/golang.org/x/
 cd %GOPATH%/src/golang.org/x/
 
@@ -25,4 +25,9 @@ go install tools
 
 git clone https://github.com/golang/crypto.git crypto
 go install crypto
+```
+
+### Set Go Proxy for China
+```shell script
+go env -w GOPROXY=https://goproxy.cn,direct
 ```
