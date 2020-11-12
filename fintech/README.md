@@ -1,4 +1,4 @@
-# Finance Technology
+# Finance Technique
 
 Create such page on 2020-11-13.
 

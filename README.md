@@ -18,6 +18,6 @@ This is my person repository for self learning purpose.
 
 [Link](technic/README.md)
 
-## Finance Technology
+## Finance Technique
 
 [Link](fintech/README.md)
