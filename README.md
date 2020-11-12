@@ -1,5 +1,7 @@
 # Knowledge Base
 
+This is my person repository for self learning purpose.
+
 ## Programming Languages
 
 [Link](languages/README.md)
@@ -15,3 +17,7 @@
 ## Technical Documents
 
 [Link](technic/README.md)
+
+## Finance Technology
+
+[Link](fintech/README.md)
