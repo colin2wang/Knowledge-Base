@@ -87,3 +87,10 @@ v-jiwan-ubuntu-temp
 /etc/hosts存放的是域名与ip的对应关系，域名与主机名没有任何关系，你可以为任何一个IP指定任意一个名字，hostname文件的一个例子：
 127.0.0.1       localhost
 127.0.1.1       v-jiwan-ubuntu
+
+
+## Ubuntu系统时间相差8小时解决方法
+
+```shell
+sudo timedatectl set-local-rtc 1 
+```
