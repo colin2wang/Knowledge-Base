@@ -2,22 +2,12 @@
 
 This is my person repository for self learning purpose.
 
-## Programming Languages
+* [Programming Languages](languages/README.md)
 
-[Link](languages/README.md)
+* [Operation System](os/README.md)
 
-## Operation System
+* [Develop Tools](tools/README.md)
 
-[Link](os/README.md)
+* [Technical Documents](technic/README.md)
 
-## Develop Tools
-
-[Link](tools/README.md)
-
-## Technical Documents
-
-[Link](technic/README.md)
-
-## Finance Technique
-
-[Link](fintech/README.md)
+* [Finance Technique](fintech/README.md)
