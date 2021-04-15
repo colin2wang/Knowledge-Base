@@ -31,3 +31,9 @@ go install crypto
 ```shell script
 go env -w GOPROXY=https://goproxy.cn,direct
 ```
+
+## Language and syntax
+
+### Naming conventions
+
+[Effective Go](https://golang.org/doc/effective_go.html)
