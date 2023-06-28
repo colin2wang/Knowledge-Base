@@ -1,6 +1,16 @@
 # Programming Languages
 
-* [Java](java/README.md)
-* [Python](python/README.md)
-* [Golang](go-lang/README.md)
-* [Dart](dart/README.md)
+## Java
+* [Link](java/README.md)
+
+## Python
+* [Link](python/README.md)
+
+## Golang
+* [Link](go-lang/README.md)
+
+## Rust
+* [Link](rust/README.md)
+
+## Dart
+* [Link](dart/README.md)
