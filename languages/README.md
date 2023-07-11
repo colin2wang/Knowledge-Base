@@ -1,5 +1,8 @@
 # Programming Languages
 
+## C++
+* [Link](cpp/README.md)
+
 ## Java
 * [Link](java/README.md)
 
